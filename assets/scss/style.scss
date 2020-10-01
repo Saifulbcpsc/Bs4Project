@@ -48,7 +48,17 @@ body{
     }
 }
 
+#creat-main-section{
+    background-color:#000000;
 
+    .fa{
+        background:#fff;
+        color: $primary-color;
+        padding: 4px;
+        font-size: $icon-font-size;
+        border-radius: 5px;
+    }
+}
 
 
 
